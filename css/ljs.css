@@ -7,25 +7,25 @@ section {
 	height: 1080px;
 	padding-right: 40px;
 	padding-left: 40px;
-	background-image: url(./tamada.png);
+	background-image: url(../css/ljs.png);
 	background-size: 10%;
 	background-repeat: no-repeat;
 	background-position: right 15px;
-	font-size: 1.5rem;
+	font-size: 2.0rem;
 }
 
 header {
 	width: 85%;
 	padding: 1px;
-	color: #0585c8;
-	background: linear-gradient(to right, #0585c8, white);
+	color: #e60044;
+	background: linear-gradient(to right, #e60044, white);
 	top: 50px;
 }
 
 footer {
 	width: 100%;
 	/* background: linear-gradient(to right, #04ac75, white); */
-	background: #04ac75;
+	background: #f08300;
 	color: black;
 	text-align: left;
 	padding: 15px;
